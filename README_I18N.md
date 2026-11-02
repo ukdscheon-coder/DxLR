@@ -1,0 +1,2 @@
+DxLR Multilingual v1.5
+UI language selector: English, Korean, Japanese, Chinese (Simplified), Spanish, French, German. The primary static controls are translated. Original Falcon log content, error codes, evidence, manual passages and dynamically generated diagnostic findings remain unmodified/untranslated for accuracy. Not a fully localized medical service translation. Language preference is stored on-device.
