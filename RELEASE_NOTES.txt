@@ -1,0 +1,4 @@
+DxLR v1.4 — renamed from DLR. Current diagnostic scope: DxI 9000 only. DxA will be a separate future module.
+Source: latest available v1.3 PDF Learning builds.
+Browser/PWA app; not an IPA/EXE installer. Requires HTTPS hosting for iPhone Home Screen install. PDF/OCR may require internet for external libraries.
+Validation: source syntax/package checks only; no device or Vercel deployment verification.
